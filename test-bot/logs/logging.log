@@ -1,0 +1,21 @@
+2023-12-20 18:37:01,186 INFO Start polling
+2023-12-20 18:37:01,252 INFO Run polling for bot @testkursovaya063_bot id=6736307902 - 'TEST BOT'
+2023-12-20 18:37:12,008 INFO User LVL received: user: 5810398156, LVL: 7
+2023-12-20 18:37:12,175 INFO Update id=981689990 is handled. Duration 484 ms by bot id=6736307902
+2023-12-20 18:37:18,765 INFO Update id=981689991 is handled. Duration 234 ms by bot id=6736307902
+2023-12-20 18:37:21,010 INFO Update id=981689992 is handled. Duration 750 ms by bot id=6736307902
+2023-12-20 18:37:23,091 INFO Update id=981689993 is handled. Duration 327 ms by bot id=6736307902
+2023-12-20 18:37:25,336 INFO Update id=981689994 is handled. Duration 453 ms by bot id=6736307902
+2023-12-20 18:37:26,934 INFO Update id=981689995 is handled. Duration 219 ms by bot id=6736307902
+2023-12-20 18:37:28,688 INFO Update id=981689996 is handled. Duration 234 ms by bot id=6736307902
+2023-12-20 18:37:34,709 INFO Update id=981689997 is handled. Duration 203 ms by bot id=6736307902
+2023-12-20 18:37:36,376 INFO Update id=981689998 is handled. Duration 296 ms by bot id=6736307902
+2023-12-20 18:37:37,978 INFO Update id=981689999 is handled. Duration 202 ms by bot id=6736307902
+2023-12-20 18:37:39,201 INFO Update id=981690000 is handled. Duration 203 ms by bot id=6736307902
+2023-12-20 18:37:40,430 INFO Update id=981690001 is handled. Duration 172 ms by bot id=6736307902
+2023-12-20 18:37:41,848 INFO Update id=981690002 is handled. Duration 202 ms by bot id=6736307902
+2023-12-20 18:37:43,171 INFO Update id=981690003 is handled. Duration 186 ms by bot id=6736307902
+2023-12-20 18:37:45,792 INFO Update id=981690004 is handled. Duration 265 ms by bot id=6736307902
+2023-12-20 18:37:53,008 INFO Update id=981690005 is handled. Duration 311 ms by bot id=6736307902
+2023-12-20 18:38:35,990 INFO Polling stopped
+2023-12-20 18:38:36,246 INFO Polling stopped for bot @testkursovaya063_bot id=6736307902 - 'TEST BOT'
